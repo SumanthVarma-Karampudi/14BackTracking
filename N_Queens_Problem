@@ -1,0 +1,22 @@
+Introduction:
+1.Place yourself at the starting point.
+2.Explore all possible paths from starting point.
+3.Insert your element at correct possible position only and once inserted then move onto smaller problem.
+4.Once you reach the base case, print your solution.
+--->Once you explore all paths from your point, backtrack to previous point
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>N_Queens>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#include<iostream>
+using namespace std;
+int board[11][11];        //Global Array
+void placeNQueens(int n){
+  memset(  
+
+}
+
+int main(){
+  placeNQueens(4);
+  
+  
+  return 0;
+}
